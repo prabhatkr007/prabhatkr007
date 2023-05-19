@@ -1,8 +1,21 @@
-- 👋 Hi, I’m Prabhat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gmail--> pkr.876550@gmail.com
+<div id="header" align="center">
+  <img src="https://github.com/prabhatkr007/prabhatkr007/blob/main/asset/image.png" />
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/prabhat-kr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/prabhat.raghav">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/prabhatraghav">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
+
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
