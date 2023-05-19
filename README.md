@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail--> pkr.876550@gmail.com
 
-![snake gif](https://github.com/prabhatkr007/prabhatkr007/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/{{prabhatkr007}}/{{prabhatkr007}}/blob/output/github-contribution-grid-snake.svg)
 - 
 
 <!---
