@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://github.com/prabhatkr007/prabhatkr007/blob/main/asset/image.png" />
+  <img src="https://i.imgur.com/eLdOIJ1.png" />
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/prabhat-kr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/prabhat.raghav">
+  <a href="https://instagram.com/prabhat.raghav">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/prabhatraghav">
