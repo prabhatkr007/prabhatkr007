@@ -11,6 +11,8 @@
   <a href="https://twitter.com/prabhatraghav">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    
+  ![](https://komarev.com/ghpvc/?username=prabhatkr007&color=red)
 </div>
 </div>
 
@@ -37,8 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="vscode" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="docker" width="40" height="40"/>&nbsp;
 </p>
-
+<div display = "flex">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabhatkr007&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkr007&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <!---
 prabhatkr007/prabhatkr007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
