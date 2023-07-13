@@ -37,11 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="vscode" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="docker" width="40" height="40"/>&nbsp;
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![Snake animation](https://github.com/prabhatkr007/prabhatkr007/blob/output/github-contribution-grid-snake.svg)
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div display = "flex">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabhatkr007&theme=transparent&hide_border=true)](https://git.io/streak-stats)
