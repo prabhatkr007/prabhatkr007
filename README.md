@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/eLdOIJ1.png" />
+  <img src="https://github.com/prabhatkr007/prabhatkr007/blob/main/asset/image.png" />
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/prabhat-kr/">
