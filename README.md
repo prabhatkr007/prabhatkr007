@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/prabhatkr007/prabhatkr007/blob/main/asset/image.png" />
+  <img src="https://i.imgur.com/eLdOIJ1.png" />
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/prabhat-kr/">
@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="docker" width="40" height="40"/>&nbsp;
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![Snake animation](https://github.com/prabhatkr007/prabhatkr007/blob/output/github-contribution-grid-snake-dark.svg)
 
