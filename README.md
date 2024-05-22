@@ -6,7 +6,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabhatkr007&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhatkr007&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatkr007&theme=github_dark)
 </div>
 
 <div id="header" align="center">
