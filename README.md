@@ -2,10 +2,11 @@
 
 ![Snake animation](https://github.com/prabhatkr007/prabhatkr007/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div display = "flex">
+<div display = "flex" align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabhatkr007&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkr007&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabhatkr007&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhatkr007&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhatkr007&theme=github_dark)
 </div>
 
 <div id="header" align="center">
